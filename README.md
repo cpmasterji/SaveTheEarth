@@ -1,3 +1,4 @@
+[comment]: <> ( Chandra 111118020)
 # SaveTheEarth
 ## Powers    
 After being critically injured during a battle with the Extremis-enhanced Mallen, Stark injects his nervous system with modified techno-organic virus-like body restructuring machines (the Extremis process). By rewriting his own biology, Stark is able to save his life, gain an enhanced healing factor, and partially merge with the Iron Man armor, superseding the need for bulky, AI-controlled armors in favor of lighter designs, technopathically controlled by his own brain. His enhanced technopathy extends to every piece of technology, limitless and effortlessly due to his ability to interface with communication satellites and wireless connections to increase his "range". Some components of the armor-sheath are now stored in Tony's body, able to be recalled, and extruded from his own skin, at will.
