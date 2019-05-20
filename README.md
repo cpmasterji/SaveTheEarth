@@ -1,3 +1,4 @@
+[comment]: <> (Prabu 111118020)
 # SaveTheEarth
 ## Iron man
 
@@ -6,7 +7,7 @@ I also witnessed that most of them crying and feeling bad when **Iron man** died
 Also i am thalapathy fan, Most of them will say thalapathy is best suited to do ***Iron man*** role.
 
 He was the first member recruited for the group, and for good reason: 
-He’s got the tech — and the billions of dollars — that the Avengers depend on.
+Heâ€™s got the tech â€” and the billions of dollars â€” that the Avengers depend on.
 
 ![](https://media.giphy.com/media/P8U6dyvXf5LFK/giphy.gif)
 
